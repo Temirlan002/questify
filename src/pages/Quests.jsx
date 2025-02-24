@@ -30,8 +30,11 @@ const Quests = () => {
                   </Button>  
                   <p>Ваши очки: {points}</p>
               </>
-        ) : (
+      ) : (
+          <div>
             <p>Войдите, чтобы получать квесты</p>
+            <p>asdfadsfads fasdf asf asdf asdf asdf asdf das fasdf asdf as</p>
+          </div>
         )}
     </div>
   )
